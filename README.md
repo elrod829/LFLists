@@ -2,12 +2,11 @@ To use in ProjectIgnis, open your `configs.json` and paste the following into th
 
 
 `,
-		{	
-  			"url": "https://github.com/elrod829/LFLists",
-     			"repo_name": "Junior Journey Banists",
-			"repo_path": "./repositories/jjlflists",
-			"lflist_path": ".",
-   			"should_update": true,
-			"should_read": true
-		}
-`
+{
+	"url": "https://github.com/elrod829/LFLists",
+     	"repo_name": "Junior Journey Banists",
+	"repo_path": "./repositories/jjlflists",
+	"lflist_path": ".",
+   	"should_update": true,
+	"should_read": true
+}`
